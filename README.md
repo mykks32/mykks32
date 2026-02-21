@@ -8,7 +8,6 @@ Currently expanding my skill set by learning **DevOps practices and AWS Cloud**,
 - 🔭 Currently working with **NestJS and scalable backend systems**
 - 🌱 Learning **DevOps fundamentals and AWS cloud services**
 - 🦀 Planning to explore **Rust** for systems-level development
-- 💼 Former Full Stack Developer at **CloudQuish LLC & A5IT**
 - 📫 Reach me at: **srikri5462ydv@gmail.com**
 - 👯 Open to collaborating on backend-focused projects
 
