@@ -1,21 +1,45 @@
-## Hey👋, I'm Shree Krishna Yadav
+## Hey 👋, I'm Shree Krishna Yadav
 
-Computer Engineer focused on full-stack development with React and Django, exploring DevOps for automation and efficiency. I love solving problems and learning a lot in the process. I thrive on tackling complex problems and gaining deep insights through the learning process.
+Computer Engineer and Full Stack Developer specializing in **NestJS, TypeScript, Next.js, and PostgreSQL**.  
+I build scalable backend systems and production-ready full-stack applications with a strong focus on clean architecture and performance.
 
-- 🔭 I’m currently exploring new opportunities in **full-stack development**, focusing on **React and Django**.
-- 🌱 I’m learning more about **DevOps** and expanding my skills in web development.
-- 📫 How to reach me: **srikri5462ydv@gmail.com**
-- 👯 I’m interested in collaborating on **web development** projects, particularly those involving **React and Django**.
- 
+Currently expanding my skill set by learning **DevOps practices and AWS Cloud**, while preparing to explore **Rust** for high-performance systems programming.
+
+- 🔭 Currently working with **NestJS and scalable backend systems**
+- 🌱 Learning **DevOps fundamentals and AWS cloud services**
+- 🦀 Planning to explore **Rust** for systems-level development
+- 💼 Former Full Stack Developer at **CloudQuish LLC & A5IT**
+- 📫 Reach me at: **srikri5462ydv@gmail.com**
+- 👯 Open to collaborating on backend-focused projects
+
+---
+
 <div>
   <h3>My GitHub Stats</h3>
-    <a href="https://github.com/mykks32" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykks32&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&layout=compact&hide_progress=true" alt="Top Languages" /></a><br>
-    <a href="http://www.github.com/mykks32"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mykks32&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&mode=weekly" /></a></br>
-    <a href="http://www.github.com/mykks32"><img src="https://github-readme-stats.vercel.app/api?username=mykks32&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mykks32's GitHub stats" /></a>
-  </div>
+
+  <a href="https://github.com/mykks32">
+    <img src="https://streak-stats.demolab.com?user=mykks32&theme=radical&hide_border=true" />
+  </a>
   
+
+</div>
+
+---
+
+### 🛠 Tech Stack
+
+**Languages:** TypeScript, JavaScript, Java, Python, SQL  
+**Frontend:** Next.js, React.js, Tailwind CSS  
+**Backend:** NestJS, Node.js, Express.js, Spring Boot, Django  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Tools & Infrastructure:** Redis, Docker, Git  
+
+---
+
 ### Connect with me 🤝
 
 <p align="left">
-<a href="https://linkedin.com/in/mykks32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mykks32" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mykks32" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mykks32" height="30" width="40" />
+</a>
 </p>
